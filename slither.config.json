@@ -1,0 +1,3 @@
+{
+  "filter_paths": "lib/|test/|src/ReapersGambit.sol|src/IReapersGambit.sol"
+}
