@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wrapped-reaper/static/css/main.bf5007ce.css",
-    "main.js": "/wrapped-reaper/static/js/main.1b226b08.js",
+    "main.js": "/wrapped-reaper/static/js/main.5b444a0e.js",
     "static/js/774.8139cda1.chunk.js": "/wrapped-reaper/static/js/774.8139cda1.chunk.js",
     "static/js/929.ecd11257.chunk.js": "/wrapped-reaper/static/js/929.ecd11257.chunk.js",
     "static/js/27.07bc2567.chunk.js": "/wrapped-reaper/static/js/27.07bc2567.chunk.js",
@@ -9,6 +9,6 @@
   },
   "entrypoints": [
     "static/css/main.bf5007ce.css",
-    "static/js/main.1b226b08.js"
+    "static/js/main.5b444a0e.js"
   ]
 }
