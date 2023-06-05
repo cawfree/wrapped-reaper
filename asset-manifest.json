@@ -1,19 +1,14 @@
 {
   "files": {
-    "main.css": "/wrapped-reaper/static/css/main.a1aacafa.css",
-    "main.js": "/wrapped-reaper/static/js/main.8c520dc4.js",
-    "static/js/930.52f867f7.chunk.js": "/wrapped-reaper/static/js/930.52f867f7.chunk.js",
-    "static/js/339.2199b43a.chunk.js": "/wrapped-reaper/static/js/339.2199b43a.chunk.js",
-    "static/js/787.cda612ba.chunk.js": "/wrapped-reaper/static/js/787.cda612ba.chunk.js",
-    "index.html": "/wrapped-reaper/index.html",
-    "main.a1aacafa.css.map": "/wrapped-reaper/static/css/main.a1aacafa.css.map",
-    "main.8c520dc4.js.map": "/wrapped-reaper/static/js/main.8c520dc4.js.map",
-    "930.52f867f7.chunk.js.map": "/wrapped-reaper/static/js/930.52f867f7.chunk.js.map",
-    "339.2199b43a.chunk.js.map": "/wrapped-reaper/static/js/339.2199b43a.chunk.js.map",
-    "787.cda612ba.chunk.js.map": "/wrapped-reaper/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/wrapped-reaper/static/css/main.bf5007ce.css",
+    "main.js": "/wrapped-reaper/static/js/main.1b226b08.js",
+    "static/js/774.8139cda1.chunk.js": "/wrapped-reaper/static/js/774.8139cda1.chunk.js",
+    "static/js/929.ecd11257.chunk.js": "/wrapped-reaper/static/js/929.ecd11257.chunk.js",
+    "static/js/27.07bc2567.chunk.js": "/wrapped-reaper/static/js/27.07bc2567.chunk.js",
+    "index.html": "/wrapped-reaper/index.html"
   },
   "entrypoints": [
-    "static/css/main.a1aacafa.css",
-    "static/js/main.8c520dc4.js"
+    "static/css/main.bf5007ce.css",
+    "static/js/main.1b226b08.js"
   ]
 }
